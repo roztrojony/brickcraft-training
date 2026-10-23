@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "url": "https://github.com/roztrojony/brickcraft-training/releases/download/model-v2/brick_detector.onnx",
+  "sha256": "605f6709db3902c1e0af3999a314be306f1784af2fca885c8dfbb00c8440a513",
+  "size": 115316002,
+  "notes": "RF-DETR nano, 2 epoki, 100 tys. zdjęć (mAP50 0,99)"
+}
